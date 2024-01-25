@@ -1,4 +1,4 @@
- **# Lung Anomaly Detection with Detectron**
+**# Lung Anomaly Detection with Detectron**
 
 **## Overview**
 
